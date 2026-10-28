@@ -15,7 +15,7 @@ I'm an independent web designer and developer. I build fast, accessible sites an
 
 ## Open source
 
-- **[Template Galaxy]| [Repo](https://github.com/JShipps/TG/) | [Preview](https://jshipps.me/tg/)**: a gallery of MIT-licensed website templates you can preview and use as starting points.
+- **Template Galaxy** | [Repo](https://github.com/JShipps/TG/) | [Preview](https://jshipps.me/tg/): a gallery of MIT-licensed website templates you can preview and use as starting points.
 
 ## Selected client work
 
