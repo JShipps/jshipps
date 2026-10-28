@@ -15,8 +15,6 @@ I'm an independent web designer and developer. I build fast, accessible sites an
 
 ## Open source
 
-- **[Inquiry CMS](https://github.com/JShipps/inquiry-cms)**: a flat-file PHP CMS with an admin panel, contact pipeline, and spam defenses. It's what powers my own site.
-- **[Portfolio Starter](https://github.com/JShipps/portfolio-starter)**: a fast, accessible portfolio template you can deploy anywhere PHP runs.
 - **[Template Galaxy](https://jshipps.me/tg/)**: a gallery of MIT-licensed website templates you can preview and use as starting points.
 
 ## Selected client work
