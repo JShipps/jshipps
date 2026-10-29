@@ -1,49 +1,36 @@
-# Hi, I'm Jason 👋
+# Hi, I'm Jason Shipps 👋
 
-I'm an independent web designer and developer with 10+ years of building for the web. I design the interface and build it myself, front end to back end, so one person is accountable for how the whole thing works.
+I'm an independent web designer and developer with 10+ years of experience. I design the interface and build it myself, front end to back end, so one person is accountable for how the whole thing works. I build fast, accessible sites and lightweight PHP-powered CMS platforms for founders, small businesses, and small teams. Every client owns their code, content, and hosting outright.
 
-I like lightweight custom builds over plugin piles, fast pages, and admin panels that owners can actually use. Every site I build belongs to the client: the code, the content, and the hosting are all in their name.
+**🌐 Portfolio:** [jshipps.me](https://jshipps.me) · **✉️ Contact:** [hello@jshipps.me](mailto:hello@jshipps.me) · **📅 Booking:** Q4 2026 / Q1 2027
 
-🌐 **[jshipps.me](https://jshipps.me)** · ✉️ **[hello@jshipps.me](mailto:hello@jshipps.me)** · 📅 Booking projects for Q4 2026 / Q1 2027
+## What I work with
 
----
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
+![Strava API](https://img.shields.io/badge/Strava_API-FC4C02?logo=strava&logoColor=white)
 
-## 🛠️ Selected work
+## Open source
 
-**[Home Crafts by Karin](https://jshipps.me/work/homecraftsbykarin)** · E-commerce · Brand & Build
-A brand and custom storefront for a small-batch, handmade goods shop. Stripe checkout, with one admin panel for all inventory, kept in sync by Stripe webhooks. Built in about four weeks, and the client's business is up since launch.
-`PHP` `Tailwind` `JavaScript` `Stripe` · Lighthouse 90 / 99 / 100 / 92 · [Live site ↗](https://homecraftsbykarin.com)
+All MIT-licensed. Fork them, ship them, sell with them.
 
-**[WSKY Ride](https://jshipps.me/work/wsky-ride)** · Content site · Custom CMS + API
-My own cycling site: a training log and gear reviews, with ride stats pulled live from Strava. It has a custom PHP admin for posts and reviews. Zero plugins, zero manual ride entries.
-`PHP` `Strava API` `CSS` · [Live site ↗](https://wskyride.cc)
+- **[Template Galaxy](https://jshipps.me/tg/)**: live previews of every template, with links to each repo.
+- **[Astra](https://github.com/JShipps/Astra)**: a simple yet stunning PHP and Bootstrap 5 template for the space lover.
+- **[NovaTech](https://github.com/JShipps/NovaTech)**: an HTML storefront starter for an individual or business selling a product.
+- **[Marina](https://github.com/JShipps/Marina)**: a PHP template for ocean-themed sites.
 
----
+## Selected work
 
-## 📦 Open source
+- **[Home Crafts by Karin](https://jshipps.me/work/homecraftsbykarin)**: brand and custom storefront for a small-batch handmade shop. Stripe checkout, with one admin panel for all inventory, kept in sync by Stripe webhooks. Built in about four weeks, and the client's business is up since launch. Lighthouse 90 / 99 / 100 / 92. [Live site ↗](https://homecraftsbykarin.com)
+- **[WSKY Ride](https://jshipps.me/work/wsky-ride)**: my own cycling site, a training log and gear reviews powered by live Strava data, with a custom PHP admin. Zero plugins, zero manual ride entries. [Live site ↗](https://wskyride.cc)
 
-Free, MIT-licensed templates I use as starting points for client sites. Fork them, ship them, sell with them.
+## Work with me
 
-| Project | What it is | Stack |
-|---|---|---|
-| [**Template Galaxy**](https://jshipps.me/tg/) | Live previews of every template, with links to each repo | — |
-| [**Astra**](https://github.com/JShipps/Astra) | A simple yet stunning template for the space lover | PHP · Bootstrap 5 |
-| [**NovaTech**](https://github.com/JShipps/NovaTech) | A storefront starter for an individual or business selling a product | HTML |
-
----
-
-## 🧰 Tools I use
-
-`HTML` `PHP` `Tailwind` `Bootstrap` `JavaScript` `Stripe` `MySQL`
-
----
-
-## 💼 Working with me
-
-Every project is fixed scope with a fixed quote agreed before work starts. There are no hourly surprises, and you own everything at the end. Options range from one-to-two-week sprints to full builds with a custom CMS, plus an annual Care Plan to keep a site fast and current.
-
-👉 [Services & pricing](https://jshipps.me/services) · [Start a project](https://jshipps.me/contact)
-
----
+I take on a limited number of projects at a time, from focused one-to-two-week sprints to full custom builds, plus an annual Care Plan to keep a site fast and current. Every project is fixed scope with a fixed quote agreed before work starts. See [services and pricing](https://jshipps.me/services) or [start a project](https://jshipps.me/contact).
 
 When I'm not building, I'm usually on a bike. 🚴
