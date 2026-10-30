@@ -1,6 +1,6 @@
 # Hi, I'm Jason Shipps 👋
 
-I'm an independent web designer and developer with 10+ years of experience. I design the interface and build it myself, front end to back end, so one person is accountable for how the whole thing works. I build fast, accessible sites and lightweight PHP-powered CMS platforms for founders, small businesses, and small teams. Every client owns their code, content, and hosting outright.
+I'm an independent web designer and developer with 10+ years of experience. I design the interface and build it myself, front end to back end, so one person is accountable for how the whole thing works. I build fast, accessible sites and lightweight CMS platforms for founders, small businesses, and small teams. Every client owns their code, content, and hosting outright.
 
 **🌐 Portfolio:** [jshipps.me](https://jshipps.me) · **✉️ Contact:** [hello@jshipps.me](mailto:hello@jshipps.me) · **📅 Booking:** Q4 2026 / Q1 2027
 
