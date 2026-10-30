@@ -19,15 +19,11 @@ I'm an independent web designer and developer with 10+ years of experience. I de
 
 All MIT-licensed. Fork them, ship them, sell with them.
 
-- **[Template Galaxy](https://jshipps.me/tg/)**: live previews of every template, with links to each repo.
+- **[Template Galaxy](https://templategalaxy.sbs)**: live previews of every template, with links to each repo.
 - **[Astra](https://github.com/JShipps/Astra)**: a simple yet stunning PHP and Bootstrap 5 template for the space lover.
 - **[NovaTech](https://github.com/JShipps/NovaTech)**: an HTML storefront starter for an individual or business selling a product.
 - **[Marina](https://github.com/JShipps/Marina)**: a PHP template for ocean-themed sites.
-
-## Selected work
-
-- **[Home Crafts by Karin](https://jshipps.me/work/homecraftsbykarin)**: brand and custom storefront for a small-batch handmade shop. Stripe checkout, with one admin panel for all inventory, kept in sync by Stripe webhooks. Built in about four weeks, and the client's business is up since launch. Lighthouse 90 / 99 / 100 / 92. [Live site ↗](https://homecraftsbykarin.com)
-- **[WSKY Ride](https://jshipps.me/work/wsky-ride)**: my own cycling site, a training log and gear reviews powered by live Strava data, with a custom PHP admin. Zero plugins, zero manual ride entries. [Live site ↗](https://wskyride.cc)
+- **[Strava Stats](https://github.com/JShipps/strava-stats)**: A small, dependency-free PHP endpoint that turns your Strava account into a clean JSON feed for your website.
 
 ## Work with me
 
